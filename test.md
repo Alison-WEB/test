@@ -5,7 +5,7 @@
 - **Location:** Rostov-on-Don, Russian Federation
 - **Discord:** Alison-WEB (@Alison-WEB)
 - **Email:** AlisonWEB@yandex.ru  
----
+***
 ## **Skills**
 
 - HTML
@@ -14,7 +14,7 @@
 - Git, GitHub
 - VS Code
 - Figma  
----
+===
 ## Code Example
 
 ```
